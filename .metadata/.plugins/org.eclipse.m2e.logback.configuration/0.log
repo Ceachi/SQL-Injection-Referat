@@ -1864,3 +1864,186 @@ org.eclipse.jdt.core.JavaModelException: bin [in Sql-Injection-in-Java] is not o
 2018-12-30 07:13:40,656 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-12-30 07:13:40,657 [Worker-101: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-12-30 07:13:40,657 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 11:45:47,373 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-01-03 11:45:50,105 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 11:45:50,114 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 11:45:50,117 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 11:45:50,118 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 11:48:27,807 [Worker-9: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat
+2019-01-03 11:48:27,809 [Worker-9: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U tomcat7:run -X
+2019-01-03 11:59:18,801 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 11:59:18,810 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 11:59:18,812 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 11:59:18,812 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:00:12,691 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:00:12,692 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:00:12,693 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:00:12,694 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:00:51,923 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:00:51,924 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:00:51,926 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:00:51,928 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:03:22,058 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:03:22,061 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:03:22,064 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:03:22,066 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:03:34,909 [Worker-5: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat
+2019-01-03 12:03:34,909 [Worker-5: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U tomcat7:run -X
+2019-01-03 12:04:27,040 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:04:27,041 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:04:27,042 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:04:27,043 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:05:33,932 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:05:33,933 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:05:33,935 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:05:33,936 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:06:37,733 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:06:37,734 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:06:37,737 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:06:37,737 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:07:02,902 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:07:02,902 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:07:02,904 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:07:02,904 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:07:14,564 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:07:14,566 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:07:14,570 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:07:14,572 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:07:31,584 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:07:31,585 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:07:31,586 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:07:31,586 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:08:28,670 [Worker-21: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat
+2019-01-03 12:08:28,670 [Worker-21: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U tomcat7:run -X
+2019-01-03 12:09:40,236 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:09:40,237 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:09:40,237 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:09:40,238 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:21:34,790 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:21:34,792 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:21:34,793 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:21:34,795 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:31:59,863 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:31:59,865 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:31:59,865 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:31:59,866 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:32:38,202 [Worker-25: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat
+2019-01-03 12:32:38,203 [Worker-25: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U tomcat7:run -X
+2019-01-03 12:36:54,043 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:36:54,044 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:36:54,045 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:36:54,046 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:37:01,609 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:37:01,610 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:37:01,615 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:37:01,617 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:37:07,422 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:37:07,424 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:37:07,425 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:37:07,425 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:37:13,072 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:37:13,073 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 12:37:13,074 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 12:37:13,075 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 12:37:20,954 [Worker-26: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat
+2019-01-03 12:37:20,954 [Worker-26: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U tomcat7:run -X
+2019-01-03 13:23:14,015 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:23:14,016 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:23:14,018 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:23:14,019 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:23:26,802 [Worker-48: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat
+2019-01-03 13:23:26,802 [Worker-48: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U tomcat7:run -X
+2019-01-03 13:26:06,367 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:26:06,369 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:26:06,371 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:26:06,372 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:26:17,960 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:26:17,961 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:26:17,962 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:26:17,962 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:26:24,650 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:26:24,652 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:26:24,653 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:26:24,654 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:26:34,332 [Worker-51: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:26:34,333 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:26:34,334 [Worker-51: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:26:34,334 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:26:54,965 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:26:54,966 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:26:54,966 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:26:54,967 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:27:05,317 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:27:05,317 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:27:05,318 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:27:05,318 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:27:08,017 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:27:08,018 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:27:08,019 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:27:08,019 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:28:42,935 [Worker-51: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:28:42,935 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:28:42,936 [Worker-51: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:28:42,936 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:28:54,866 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:28:54,867 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:28:54,868 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:28:54,868 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:30:07,075 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:30:07,075 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:30:07,076 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:30:07,077 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:30:08,971 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:30:08,972 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:30:08,972 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:30:08,973 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:30:13,346 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:30:13,347 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:30:13,347 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:30:13,348 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:30:21,914 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:30:21,916 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 13:30:21,918 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 13:30:21,919 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 13:30:29,166 [Worker-29: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat
+2019-01-03 13:30:29,166 [Worker-29: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U tomcat7:run -X
+2019-01-03 15:58:32,440 [Worker-88: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 15:58:32,444 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 15:58:32,445 [Worker-88: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 15:58:32,446 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 15:58:37,261 [Worker-87: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat
+2019-01-03 15:58:37,261 [Worker-87: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U tomcat7:run -X
+2019-01-03 16:00:06,760 [Worker-93: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:00:06,761 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 16:00:06,762 [Worker-93: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:00:06,763 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 16:00:15,032 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:00:15,033 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 16:00:15,034 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:00:15,035 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 16:00:54,144 [Worker-91: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:00:54,145 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 16:00:54,147 [Worker-91: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:00:54,147 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 16:01:38,347 [Worker-92: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:01:38,348 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 16:01:38,349 [Worker-92: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:01:38,349 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 16:01:44,713 [Worker-92: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:01:44,714 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 16:01:44,715 [Worker-92: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:01:44,715 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 16:01:52,638 [Worker-92: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat
+2019-01-03 16:01:52,638 [Worker-92: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U tomcat7:run -X
+2019-01-03 16:11:16,004 [Worker-97: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:11:16,005 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 16:11:16,005 [Worker-97: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:11:16,006 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 16:11:31,292 [Worker-91: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat
+2019-01-03 16:11:31,292 [Worker-91: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U tomcat7:run -X
+2019-01-03 16:12:17,009 [Worker-91: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:12:17,010 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-03 16:12:17,011 [Worker-91: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-03 16:12:17,011 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat\src\test\resources
+2019-01-03 16:12:22,622 [Worker-95: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Bogdan\Eclipse Workspaces\referat BD SQL Injection\SQLInjectionReferat
+2019-01-03 16:12:22,622 [Worker-95: Launching Run SQLInjecctionReferat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U tomcat7:run -X

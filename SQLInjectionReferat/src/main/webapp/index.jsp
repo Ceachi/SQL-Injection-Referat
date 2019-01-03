@@ -14,6 +14,12 @@
 			value="Submit" />
 	</form>
  -->
+ 
+ 	<h2>Example query 1: "SELECT * FROM  User where userid='"+user+"'";</h2>
+	<form action="example0">
+		<input type="text" placeholder="Username" name="username"> 
+		<button type="submit">Submit query</button>
+	</form>
 	<h2>Example query 1: "SELECT * FROM User where userid='"+user+"' and password='"+password+"'";</h2>
 	<form action="userCheck">
 		<input type="text" placeholder="Username" name="username"> 

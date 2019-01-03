@@ -57,7 +57,7 @@ public class userCheck extends HttpServlet {
                 Class.forName(driver).newInstance();
                 conn = DriverManager.getConnection(url + dbName, userName, psw);
                 Statement st = conn.createStatement();
-				/* String query="SELECT * FROM  User where userid='"+user+"'" */;
+				// String query="SELECT * FROM  User where userid='"+user+"'";
 				String query = "SELECT * FROM User where userid='"+user+"' and password='"+password+"'";
                 out.println("Query : "+query);
                 
