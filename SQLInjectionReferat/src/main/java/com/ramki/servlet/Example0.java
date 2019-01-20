@@ -57,7 +57,7 @@ public class Example0 extends HttpServlet {
                 Class.forName(driver).newInstance();
                 conn = DriverManager.getConnection(url + dbName, userName, psw);
                 Statement st = conn.createStatement();
-				String query="SELECT * FROM  User where userid='"+user+"'";
+				String query="SELECT * FROM  User where userid= "+user;
                 out.println("Query : "+query);
                 
                 
@@ -71,8 +71,20 @@ public class Example0 extends HttpServlet {
                out.println("<br/><br/>Results");
                 while (res.next()) {
                     //int i = res.getInt("Emp_code");
-                    String s = res.getString("userId");
-                    out.println("<br/><br/>\t\t" + s);
+                    String column1 = res.getString("userId");
+                    String column2 = res.getString("password");
+                    String column3 = res.getString("city");
+                    String column4 = res.getString("country");
+                    String column5 = res.getString("email");
+                    String column6 = res.getString("phone");
+                    String column7 = res.getString("firstName");
+                    String column8 = res.getString("lastName");
+                    out.println("</br>");
+                    out.println("userid" + "\t\t\t" +  "password" +  "\t\t\t"+ "city" + "\t\t\t" + "country" + "\t\t\t" + "email"+ "\t\t\t"
+                    + "phone" + "\t\t\t" + "firstName" + "\t\t\t" +  "lastName" + "<br>");
+                    out.println(column1 + "\t\t\t" +  column2+  "\t\t\t"+ column3 + "\t\t\t" + column4 + "\t\t\t" + column5 + "\t\t\t"
+                            + column6 + "\t\t\t" + column7 + "\t\t\t" +  column8 + "<br>");
+                    //out.println("<br/><br/>\t\t" + s);
                 }
 
                 
